@@ -18,7 +18,7 @@ class LinearRegression():
         '''Model training
 
         We calculate how many features entered. Initializing zero weights for
-        each feature and initializing zero bias. Then we run thru gradient 
+        each feature and initializing zero bias. Then we run through gradient 
         descent several times.
 
         Args:
